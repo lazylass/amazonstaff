@@ -1,0 +1,731 @@
+html{
+position: sticky;
+width: 1440px;
+height: 4679px;
+overflow-y: scroll;
+
+background: #000000;
+}
+
+/* header */
+.header{
+    
+width: 1169px;
+height: 780px;
+left: 173px;
+top: 64px;
+}
+/* Section */
+.column{
+
+width: 1440px;
+height: 3372px;
+justify-content: flex-start;
+min-height: 250px;
+left: 0px;
+top: 970px;
+}
+/* Staf Home */
+body{
+width: 1440px;
+height: 4679px;
+overflow: hidden;
+justify-content: flex-start;
+min-height: 250px;
+
+background: #000000;
+}
+
+    
+/* Nav */
+.nav{
+position: absolute;
+width: 586px;
+height: 45px;
+left: 756px;
+top: 64px;
+
+/* Text_Misc/Nav */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 14.4px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 2px;
+
+color: #000000;
+
+opacity: 0.8;
+}
+
+/* Home */
+.home{
+
+
+/* Text_Misc/Nav */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 14.4px;
+line-height: 30px;
+letter-spacing: 1px;
+
+color: #000000;
+}
+
+/* Mission */
+.mission{
+
+width: 70px;
+height: 30px;
+left: 859px;
+top: 79px;
+/* Text_Misc/Nav */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 14.4px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 1px;
+
+color: #000000;
+
+opacity: 0.8;
+}
+
+/* About us */
+.about_us{
+width: 82px;
+height: 30px;
+left: 992px;
+top: 79px;
+/* Text_Misc/Nav */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 14.4px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 1px;
+
+color: #000000;
+
+opacity: 0.8;
+}
+
+/* Our Team */
+.our_team{
+
+width: 86px;
+height: 30px;
+left: 1093px;
+top: 78px;
+/* Text_Misc/Nav */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 14.4px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 1px;
+
+color: #000000;
+
+opacity: 0.8;
+}
+
+
+
+/* Save Amazon Forest */
+.save{
+width: 852px;
+height: 236px;
+left: 173px;
+top: 283px;
+
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 118.8%;
+/* or 86px */
+
+color: #000000;
+}
+
+/* footer */
+.footer{
+width: 1350px;
+height: 1515px;
+left: 45px;
+top: 3123px;   
+}
+/* ourmision */
+.ourmission{
+width: 558px;
+height: 201px;
+left: 411px;
+top: 970px;
+}
+
+/* Our Mission */
+.our_mission{
+    position: absolute;
+width: 261px;
+height: 67px;
+left: 559px;
+top: 970px;
+
+/* Headers/H3 */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 67px;
+/* identical to box height */
+text-align: center;
+}
+
+/* misssionobj */
+.missionobj{
+width: 1440px;
+height: 1602px;
+justify-content: flex-start;
+min-height: 25px;
+left: 0px;
+top: 1276px;
+}
+    
+/* Raising awareness and Conservating nature's endangered habitants */
+.raising{
+position: absolute;
+width: 558px;
+height: 111px;
+left: 411px;
+top: 1060px;
+
+/* Text/Regular_Bold */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+    
+}
+/* Headline */
+.headline{
+position: absolute;
+width: 852px;
+height: 597px;
+left: 173px;
+top: 247px;
+}
+
+/* 2 Elements/Button/3 Highlight/Small/Text/Default */
+.donatehead{
+
+width: 100px;
+height: 40px;
+left: 1242px;
+top: 64px;
+background: #FFC832;
+color: #FFC832;
+}
+/* STAF is a foundation that is involved with conserving the Amazon rainforest which is the largest tropical rainforest in the world. It consists of the largest collection of living plants and animal species in the world. STAF is working with flutterwave and Startng to help raise awareness about conserving nature and its habitants. */
+.headstaf{
+width: 639px;
+height: 195px;
+left: 173px;
+top: 545px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+
+color: rgba(0, 0, 0, 0.8);
+}
+/* Buttonlinks */
+.buttonlinks{
+
+width: 316px;
+height: 51px;
+left: 173px;
+top: 793px;
+}
+
+
+
+
+/* 1 */
+.on{
+
+width: 1293px;
+height: 450px;
+left: 147px;
+top: 1276px;
+}
+/* 2 */
+.tu{
+
+width: 1293px;
+height: 468px;
+left: 0px;
+top: 1834px;
+}
+/* 3 */
+.tree{
+
+width: 1293px;
+height: 468px;
+left: 147px;
+top: 2410px;
+}
+/* 01 */
+.one{
+position: absolute;
+width: 304px;
+height: 36px;
+left: 147px;
+top: 1384px;
+
+/* Title/Large 1 */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 37px;
+letter-spacing: 4px;
+text-transform: uppercase;
+
+/* Colors/Primary */
+background: #F61067;
+}
+
+/* Conserve Nature */
+.conserv{
+position: absolute;
+width: 460px;
+height: 90px;
+left: 147px;
+top: 1420px;
+
+/* Headers/H5 */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+/* STAF is giving back to nature by helping to plant more trees and save many exotic birds, wildlife and plants thereby conserving nature. */
+.conserv_staf{
+position: absolute;
+width: 460px;
+height: 97px;
+left: 147px;
+top: 1528px;
+
+/* Text/Regular */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+/* Photo */
+.perry{
+position: absolute;
+width: 705px;
+height: 450px;
+left: 735px;
+top: 1276px;
+
+background: url(perry-grone-lbLgFFlADrY-unsplash.jpg), #F61067;
+}
+
+
+/* Photo */
+.andrew{
+position: absolute;
+width: 705px;
+height: 468px;
+left: 0px;
+top: 1834px;
+
+background: url(andrew-seaman-dXIbjd8pdPo-unsplash.jpg), #F61067;
+}
+
+/* 02 */
+.reduce{
+position: absolute;
+width: 304px;
+height: 36px;
+left: 833px;
+top: 1942px;
+
+/* Title/Large */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 37px;
+letter-spacing: 4px;
+text-transform: uppercase;
+
+/* Colors/Primary */
+background: #F61067;
+}
+
+/* Reduce Pressing Threats */
+.threats{
+position: absolute;
+width: 460px;
+height: 90px;
+left: 833px;
+top: 1978px;
+
+/* Headers/H5 */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+/* We have a long term plan to plant as many trees and to save as many wildlife as possible. */
+.long{
+position: absolute;
+width: 460px;
+height: 97px;
+left: 833px;
+top: 2086px;
+
+/* Text/Regular */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+
+
+
+
+/* 03 */
+.three{
+position: absolute;
+width: 304px;
+height: 36px;
+left: 147px;
+top: 2518px;
+
+/* Title/Large */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 37px;
+letter-spacing: 4px;
+text-transform: uppercase;
+
+/* Colors/Primary */
+background: #F61067;
+}
+
+
+/* Protect */
+.prot{
+position: absolute;
+width: 460px;
+height: 90px;
+left: 147px;
+top: 2554px;
+
+/* Headers/H5 */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+/* Raising awareness and Conservating nature's endangered habitants */
+.rais{
+position: absolute;
+width: 460px;
+height: 97px;
+left: 147px;
+top: 2662px;
+
+/* Text/Regular */
+font-family: Mplus 1p;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+
+/* Photo */
+.dan{
+position: absolute;
+width: 705px;
+height: 468px;
+left: 735px;
+top: 2410px;
+
+background: url(dan-meyers-eio8P1KvdCo-unsplash.jpg), #F61067;
+}
+
+
+
+/* Split Banner */
+.container{
+position: absolute;
+width: 1350px;
+height: 500px;
+left: 150px;
+top: 3123px;
+    display: inline-flex;
+}
+
+
+/* left */
+.left-half{
+
+width: 500px;
+height: 500px;
+left: 45px;
+top: 3123px;
+background: #3C444C;
+box-shadow: 0px 30px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* Rectangle */
+.vidi{
+width: 675px;
+height: 500px;
+left: 720px;
+top: 3123px;
+}
+/* Content */
+.amazon{
+width: 443px;
+height: 282px;
+left: 162px;
+top: 3232px;
+}
+
+/* right */
+.right-half{
+width: 500px;
+height: 500px;
+left: 720px;
+float: right;
+top: 3123px;
+}
+
+
+/* The Amazon Needs You */
+.amazon{
+
+
+
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 56px;
+/* identical to box height, or 127% */
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+/* The amazon has been burning for more than 2 weeks, Help protect this world Treasure. */
+.burning{
+
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 30px;
+text-align: center;
+
+color: #CBCFD4;
+}
+
+
+/* Donate_2 */
+.donate_2{
+
+width: 999px;
+height: 475px;
+left: 126px;
+top: 3867px;
+}
+
+/* Non-Profit focused on Protecting and Preserving */
+.focused{
+position: absolute;
+width: 999px;
+height: 173px;
+left: 126px;
+top: 3867px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 86px;
+
+color: #FFFFFF;
+
+}
+
+/* STAF is a foundation that is involved with conserving the Amazon rainforest which is the largest tropical rainforest in the world. It consists of the largest collection of living plants and animal species in the world. STAF is working with flutterwave and Startng to help raise awareness about conserving nature and its habitants. */
+.foundation{
+position: absolute;
+width: 639px;
+height: 195px;
+left: 126px;
+top: 4077px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+
+color: rgba(255, 255, 255, 0.9);
+
+}
+/* donate_now */
+.donatenow{
+position: absolute;
+width: 150px;
+height: 51px;
+left: 126px;
+top: 4291px;
+}
+
+/* learn */
+.learnnow{
+position: absolute;
+width: 142px;
+height: 51px;
+left: 300px;
+top: 4291px;
+}
+/* donate */
+.donatenw{
+
+width: 150px;
+height: 51px;
+left: 173px;
+top: 793px;
+}
+/* learn_more */
+.learnnw{
+
+width: 142px;
+height: 51px;
+left: 347px;
+top: 793px;
+}
+/* footer_links */
+.footer_links{
+
+width: 1206px;
+height: 43px;
+left: 117px;
+top: 4537px;
+}
+
+/* content */
+.content{
+position: absolute;
+width: 1206px;
+height: 43px;
+left: 117px;
+top: 4537px;
+}
+
+
+/* social media */
+.social_media{
+position: absolute;
+width: 162px;
+height: 17px;
+left: 1004px;
+top: 4550px;
+}
+
+/* Copyright © 2018 by Lvzy Engine */
+.copyright{
+position: absolute;
+width: 209px;
+height: 30px;
+left: 217px;
+top: 4608px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+
+color: #AEB8D0;
+}
+
+/* first-bg */
+.background_image{
+position: relative;
+background-size: cover;
+width: 1440px;
+height: 2174px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 67.4%, #000000 100%), url(https://res.cloudinary.com/lvzy-community/image/upload/v1567310857/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg)no-repeat center;
+}
+
+/* second-bg */
+.secondbackground_image{
+position: absolute;
+background-size: cover;
+width: 1440px;
+height: 2158px;
+left: 0px;
+top: 2496px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 24.31%, rgba(0, 0, 0, 0) 73.48%), linear-gradient(180deg, rgba(0, 0, 0, 0) 84.53%, #000000 100%), url(https://res.cloudinary.com/lvzy-community/image/upload/v1567310806/evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpg) no-repeat center;
+}
+    
