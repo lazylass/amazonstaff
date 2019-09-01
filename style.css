@@ -1,10 +1,8 @@
-html{
-position: sticky;
-width: 1440px;
-height: 4679px;
-overflow-y: scroll;
+html, body{
+width: 100%;
 
-background: #000000;
+overflow-x: hidden;
+
 }
 
 /* header */
@@ -27,10 +25,13 @@ top: 970px;
 }
 /* Staf Home */
 body{
-width: 1440px;
+
 height: 4679px;
-overflow: hidden;
-justify-content: flex-start;
+
+    overflow-y: hidden;
+    padding: 0%;
+    margin: 0%;
+
 min-height: 250px;
 
 background: #000000;
@@ -40,11 +41,15 @@ background: #000000;
 /* Nav */
 .nav{
 position: absolute;
+text-align: center;
+margin: 20px 0 0 ;
+padding: 10px 0;
 width: 586px;
 height: 45px;
 left: 756px;
 top: 64px;
-
+display: flex;
+  justify-content: space-around;
 /* Text_Misc/Nav */
 font-family: Mplus 1p;
 font-style: normal;
@@ -136,7 +141,17 @@ color: #000000;
 opacity: 0.8;
 }
 
-
+.actnow {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+    left: 288px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
 /* Save Amazon Forest */
 .save{
@@ -226,13 +241,16 @@ top: 247px;
 
 /* 2 Elements/Button/3 Highlight/Small/Text/Default */
 .donatehead{
+ background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+    left: 288px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 
-width: 100px;
-height: 40px;
-left: 1242px;
-top: 64px;
-background: #FFC832;
-color: #FFC832;
 }
 /* STAF is a foundation that is involved with conserving the Amazon rainforest which is the largest tropical rainforest in the world. It consists of the largest collection of living plants and animal species in the world. STAF is working with flutterwave and Startng to help raise awareness about conserving nature and its habitants. */
 .headstaf{
@@ -625,6 +643,14 @@ color: rgba(255, 255, 255, 0.9);
 /* donate_now */
 .donatenow{
 position: absolute;
+background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 width: 150px;
 height: 51px;
 left: 126px;
@@ -641,7 +667,14 @@ top: 4291px;
 }
 /* donate */
 .donatenw{
-
+background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 width: 150px;
 height: 51px;
 left: 173px;
@@ -671,9 +704,37 @@ width: 1206px;
 height: 43px;
 left: 117px;
 top: 4537px;
+display: inline-flex;
+  justify-content: space-around;
+    border: 0;
+}
+/* unvisited link */
+a:link {
+  color: red;
+text-decoration: none;
 }
 
+/* visited link */
+a:visited {
+  color: green;
+    text-decoration: none;
+}
 
+/* mouse over link */
+a:hover {
+  color: hotpink;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+    text-decoration: none;
+}
+.spons{
+    color: aliceblue;
+    font-weight: bold;
+}
 /* social media */
 .social_media{
 position: absolute;
@@ -707,11 +768,11 @@ color: #AEB8D0;
 
 /* first-bg */
 .background_image{
-position: relative;
+position: absolute;
 background-size: cover;
-width: 1440px;
+width: 100%;
+overflow-x: hidden;
 height: 2174px;
-left: 0px;
 top: 0px;
 
 background: linear-gradient(180deg, rgba(0, 0, 0, 0) 67.4%, #000000 100%), url(https://res.cloudinary.com/lvzy-community/image/upload/v1567310857/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg)no-repeat center;
@@ -721,9 +782,10 @@ background: linear-gradient(180deg, rgba(0, 0, 0, 0) 67.4%, #000000 100%), url(h
 .secondbackground_image{
 position: absolute;
 background-size: cover;
-width: 1440px;
+width: 100%;
+overflow-x: hidden;
 height: 2158px;
-left: 0px;
+
 top: 2496px;
 
 background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 24.31%, rgba(0, 0, 0, 0) 73.48%), linear-gradient(180deg, rgba(0, 0, 0, 0) 84.53%, #000000 100%), url(https://res.cloudinary.com/lvzy-community/image/upload/v1567310806/evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpg) no-repeat center;
